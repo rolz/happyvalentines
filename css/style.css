@@ -1,0 +1,93 @@
+body {
+    background-color: red;
+}
+
+header {
+    display:block;
+    text-align: center;
+    height:400px;
+}
+
+h1#hello {
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: 60px;
+    font-family: "lust-script",sans-serif;
+}
+
+.nice-words p{
+    color: #ffffff;
+    font-family: "lust-script",sans-serif;
+    font-size: 42px;
+    display: block;
+    position: absolute;
+}
+
+#b {
+    top:700px;
+    left:930px;
+}
+#s {
+    top:1230px;
+    left:450px;
+}
+#f {
+    top:1500px;
+    left:950px;
+}
+#t {
+    top:1780px;
+    left:500px;
+}
+#d {
+    top:2535px;
+    left:430px;
+}
+#sn {
+    top:3200px;
+    left:590px;
+}
+#e {
+    top:3700px;
+    left:400px;
+}
+#and {
+    top:4220px;
+    left:250px;
+}
+#sx {
+    top:4650px;
+    left:500px;
+}
+#iloveu {
+    top:5230px;
+    left:820px;
+}
+
+.skrollr {
+    display:block;
+    width:100%;
+}
+
+.final {
+    display:block;
+    text-align: center;
+    height: 1100px;
+}
+
+.final h1{
+    font-size: 60px;
+    font-family: "lust-script",sans-serif;
+    color:#ffffff;
+    padding-top:400px;
+}
+
+.final img{
+    padding-top: 20px;
+    width:600px;
+}
+
+
+
+
+
